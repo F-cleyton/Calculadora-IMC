@@ -18,4 +18,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A calculadora IMC (Índice de Massa Corporal) é um padrão internacional de cálculo da obesidade de um indivíduo adotado pela OMS (Organização Mundial da Saúde). 
 
-- [Acesse o projeto finalizado, online](https://F-cleyton.github.io/IMC)
+- [Acesse o projeto finalizado, online](https://imcc.netlify.app/)
