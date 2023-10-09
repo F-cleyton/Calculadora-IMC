@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto CalculadoraIMC" src="./assets/imgs/img-center.jpeg" width="100%">
+  <img alt="Projeto Calculadora-IMC" src="./assets/imgs/img-center.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
